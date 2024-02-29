@@ -1,0 +1,10 @@
+repo_name: 2lambda123/android_kernel_huawei_hi6250_KernelSU
+report_id: fb412e3c29f3337d3add5bf45ab51b14
+version: 0.1
+repo_type: Public
+timestamp: '2024-02-29T19:16:27+00:00'
+requested_by: Abdelhay-Ali
+provider: github
+branch: main
+detected_tools_count: 0
+tools: []
